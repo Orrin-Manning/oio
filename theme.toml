@@ -3,16 +3,16 @@
 
 name = "oio"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
+licenselink = "https://github.com/Orrin-Manning/oio/blob/master/LICENSE"
+description = "Hugo theme for orrin.io"
 homepage = "http://example.com/"
 tags = []
 features = []
 min_version = "0.41.0"
 
 [author]
-  name = ""
-  homepage = ""
+  name = "Orrin Manning"
+  homepage = "orrin.io"
 
 # If porting an existing theme
 [original]
